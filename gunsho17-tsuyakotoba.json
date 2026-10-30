@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tsuyakotoba",
  "yomi": "つやことば",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "歌物語（恋の記）",
+  "era": "平安末期",
+  "author": "藤原隆房",
+  "desc": "藤原隆房が人知れぬ恋の思いを、業平・小町ら昔の恋の故事を引きながら、七五調の和文と歌でつづったもの。逢瀬の喜びと別れの嘆きを述べる。"
+ },
  "editions": [
   {
    "pid": "1879565",
